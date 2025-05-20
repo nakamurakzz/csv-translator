@@ -11,7 +11,7 @@
 
 ## 必要条件
 
-- Go 1.16 以上
+- Go 1.24 以上
 - Google Cloud Platform のアカウント
 - Google Cloud Translation API の有効化
 - 環境変数 `GOOGLE_CLOUD_PROJECT` の設定
